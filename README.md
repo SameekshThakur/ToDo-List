@@ -16,7 +16,7 @@ Welcome to the **ToDo List** frontend project! 📝 This web application allows 
 
 ## How to Use 📋
 
-1. Visit the live application hosted on Netlify: [![ToDo List App](https://app.netlify.com/sites/todo-task-manager-list/deploys)
+1. Visit the live application hosted on Netlify: [![ToDo List App](https://todo-task-manager-list.netlify.app/)
 2. Once the page loads, you'll see the input field where you can type your new task.
 3. Click the "Add Item" button to add the task to your list.
 4. Existing tasks will be displayed below the input field. You can click on a task to edit its content.
